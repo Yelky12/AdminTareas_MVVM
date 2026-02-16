@@ -1,0 +1,44 @@
+C:\Desarrollo\AdminTareas\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.deps.json
+C:\Desarrollo\AdminTareas\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\refint\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Models\obj\Debug\net8.0\ref\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.deps.json
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\refint\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Models\obj\Debug\net8.0\ref\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.deps.json
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\refint\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Models\obj\Debug\net8.0\ref\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.deps.json
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.AssemblyInfo.cs
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\refint\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\AdminTareas.Models.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Models\obj\Debug\net8.0\ref\AdminTareas.Models.dll

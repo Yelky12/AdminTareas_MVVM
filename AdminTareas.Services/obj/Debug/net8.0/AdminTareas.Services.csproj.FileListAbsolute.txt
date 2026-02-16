@@ -1,0 +1,68 @@
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.deps.json
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTar.7490FAFF.Up2Date
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\refint\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.Services\obj\Debug\net8.0\ref\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.deps.json
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTar.7490FAFF.Up2Date
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\refint\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.Services\obj\Debug\net8.0\ref\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.deps.json
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTar.7490FAFF.Up2Date
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\refint\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.Services\obj\Debug\net8.0\ref\AdminTareas.Services.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.deps.json
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.AssemblyInfo.cs
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTar.7490FAFF.Up2Date
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\refint\AdminTareas.Services.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\AdminTareas.Services.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.Services\obj\Debug\net8.0\ref\AdminTareas.Services.dll

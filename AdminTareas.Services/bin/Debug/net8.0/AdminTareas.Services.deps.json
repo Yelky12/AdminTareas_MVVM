@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdminTareas.Services/1.0.0": {
+        "dependencies": {
+          "AdminTareas.Data.Abstractions": "1.0.0",
+          "AdminTareas.Models": "1.0.0"
+        },
+        "runtime": {
+          "AdminTareas.Services.dll": {}
+        }
+      },
+      "AdminTareas.Data.Abstractions/1.0.0": {
+        "dependencies": {
+          "AdminTareas.Models": "1.0.0"
+        },
+        "runtime": {
+          "AdminTareas.Data.Abstractions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AdminTareas.Models/1.0.0": {
+        "runtime": {
+          "AdminTareas.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdminTareas.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdminTareas.Data.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdminTareas.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

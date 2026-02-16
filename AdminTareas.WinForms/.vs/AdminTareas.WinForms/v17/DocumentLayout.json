@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.winforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|solutionrelative:tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarea.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Tarea.cs",
+              "RelativeDocumentMoniker": "Tarea.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Tarea.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:03:24.957Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

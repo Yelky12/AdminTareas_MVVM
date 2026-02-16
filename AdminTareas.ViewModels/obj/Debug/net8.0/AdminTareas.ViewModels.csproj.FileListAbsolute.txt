@@ -1,0 +1,76 @@
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.deps.json
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTar.6F678C3D.Up2Date
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\refint\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas\AdminTareas.ViewModels\obj\Debug\net8.0\ref\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.deps.json
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTar.6F678C3D.Up2Date
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\refint\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas_DevExpress\AdminTareas.ViewModels\obj\Debug\net8.0\ref\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.deps.json
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.AssemblyReference.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfoInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfo.cs
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTar.6F678C3D.Up2Date
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\refint\AdminTareas.ViewModels.dll
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Desarrollo\AdminTareas_DevExpress - copia\AdminTareas.ViewModels\obj\Debug\net8.0\ref\AdminTareas.ViewModels.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.deps.json
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Models.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Services.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\bin\Debug\net8.0\AdminTareas.Data.Abstractions.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfoInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.AssemblyInfo.cs
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTar.6F678C3D.Up2Date
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\refint\AdminTareas.ViewModels.dll
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\AdminTareas.ViewModels.pdb
+C:\Users\aguil\source\repos\AdminTareas_\AdminTareas.ViewModels\obj\Debug\net8.0\ref\AdminTareas.ViewModels.dll
