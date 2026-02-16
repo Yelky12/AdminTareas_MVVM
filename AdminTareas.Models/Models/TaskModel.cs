@@ -21,8 +21,8 @@ namespace AdminTareas.Models.Models
         public DateTime FechaCompromiso { get; set; }
         public string Notas { get; set; } = string.Empty;
 
-        public string EstadoNombre { get; set; }
-        public string PrioridadNombre { get; set; }
+        //public string EstadoNombre { get; set; }
+        //public string PrioridadNombre { get; set; }
 
     }
 }

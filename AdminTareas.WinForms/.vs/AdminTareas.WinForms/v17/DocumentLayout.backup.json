@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FA7F5A-EC19-45A8-AED3-CCB87ADD9D00}|..\\AdminTareas.ViewModels\\AdminTareas.ViewModels.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.viewmodels\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ED773A-E921-4C2C-8778-8F1F695CCA0D}|..\\AdminTareas.Services\\AdminTareas.Services.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.services\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F93E4D-F491-4429-959B-20984723ED26}|..\\AdminTareas.Data.Dapper\\AdminTareas.Data.Dapper.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.data.dapper\\repositories\\taskrepositorydapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38426A00-F768-4F50-B65B-5DADB33D9474}|..\\AdminTareas.Models\\AdminTareas.Models.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.models\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|c:\\users\\aguil\\source\\repos\\admintareas_\\admintareas.winforms\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBFC427B-1741-467B-95D3-DF0645910E48}|AdminTareas.WinForms.csproj|solutionrelative:tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.ViewModels\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AdminTareas.ViewModels\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.ViewModels\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "..\\AdminTareas.ViewModels\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:37:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Services\\Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "..\\AdminTareas.Services\\Service\\TaskService.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Services\\Service\\TaskService.cs",
+              "RelativeToolTip": "..\\AdminTareas.Services\\Service\\TaskService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:36:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:34:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepositoryDapper.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Data.Dapper\\Repositories\\TaskRepositoryDapper.cs",
+              "RelativeDocumentMoniker": "..\\AdminTareas.Data.Dapper\\Repositories\\TaskRepositoryDapper.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Data.Dapper\\Repositories\\TaskRepositoryDapper.cs",
+              "RelativeToolTip": "..\\AdminTareas.Data.Dapper\\Repositories\\TaskRepositoryDapper.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:32:57.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Models\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "..\\AdminTareas.Models\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.Models\\Models\\TaskModel.cs*",
+              "RelativeToolTip": "..\\AdminTareas.Models\\Models\\TaskModel.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:28:50.849Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Tarea.cs",
+              "RelativeDocumentMoniker": "Tarea.cs",
+              "ToolTip": "C:\\Users\\aguil\\source\\repos\\AdminTareas_\\AdminTareas.WinForms\\Tarea.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tarea.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:03:24.957Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
